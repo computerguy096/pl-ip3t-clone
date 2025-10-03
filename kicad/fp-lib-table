@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "slocket")(type "KiCad")(uri "${KIPRJMOD}/slocket.pretty")(options "")(descr ""))
+)
